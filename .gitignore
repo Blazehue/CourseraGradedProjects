@@ -1,0 +1,146 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+*.vs/
+
+# Visual Studio 2017 auto generated files
+*.vsidx
+*.dbmdl
+*.dbproj.schemaview
+
+# Visual Studio 2019 auto generated files
+*.vstate
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# MSTest test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+
+# DotCover
+*.dotCover
+
+# WinDbg
+*.rc
+*.rc2
+*.rct
+*.rdlc
+*.resx
+*.resources
+*.resw
+
+# CodeRush
+.cr/
+
+# OpenCover
+*.opencover.xml
+
+# Azure Stream Analytics
+ASALocalRun/
+ASADebug/
+*.asaproj.user
+
+# MSBuild
+*.user.props
+*.user.targets
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.pidb
+*.svclog
+*.scc
+
+# Chutzpah test files
+_Chutzpah*
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# ClickOnce
+publish/
+
+# NCover
+*.coverage
+*.nccov
+
+# Installshield
+*.iss
+*.pbt
+
+# CorelDraw
+*.cdr
+
+# Windows icon cache
+Icon?
+
+# Visual Studio history
+*.history
+
+# Backup & report files from converting
+*.old
+*.bak
+*.backup
+*.orig
+*.tmp
+*.temp
+*~
+*.cache
+*.eps
+*.tmp~
+
+# Mac
+.DS_Store
