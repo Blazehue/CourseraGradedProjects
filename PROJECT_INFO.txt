@@ -1,0 +1,17 @@
+Student Grade Management System
+==============================
+
+This is a C# console application that allows users to manage student records and grades.
+
+Project Structure:
+- StudentGradeManagementSystem/ - Main application files
+- Documentation files: ProjectRequirements.md, DesignOutline.md, ProjectSummary.md
+- Front-end introduction folder with selected documentation
+
+Features:
+1. Add new students with ID and name
+2. Add grades for different subjects to students
+3. Calculate average grades for students
+4. Display all student records with their grades
+
+Created for Coursera Graded Assignment
